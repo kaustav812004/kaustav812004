@@ -3,7 +3,6 @@
 I am Kaustav Ghosh, currently a B.Tech student at GGSIPU. I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kaustav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustav-ghosh-846881227/)](https://www.linkedin.com/in/kaustav-ghosh-846881227)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-kaustav812004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaustav812004@gmail.com)](mailto:kaustav812004@@gmail.com)
 
 
