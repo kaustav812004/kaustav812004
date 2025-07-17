@@ -20,31 +20,41 @@ I'm currently pursuing my B.Tech in Information Technology at Guru Gobind Singh 
 Here's a list of my technical skills, with links to documentation where available:
 
 ### Languages
-* **C/C++**
-* **Java**
-* **Python**: [Official Documentation](https://docs.python.org/3/)
-* **JavaScript**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* **C/C++** 💻
+* **Java** ☕
+* **Python**: [Official Documentation](https://docs.python.org/3/) 🐍
+* **JavaScript**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 🌐
 
 ### ML Libraries
-* **NumPy**: [Official Documentation](https://numpy.org/doc/)
-* **Pandas**: [Official Documentation](https://pandas.pydata.org/docs/)
-* **TensorFlow**: [Official Documentation](https://www.tensorflow.org/api_docs)
-* **Keras**: [Official Documentation](https://keras.io/)
-* **Matplotlib**: [Official Documentation](https://matplotlib.org/stable/contents.html)
-* **Seaborn**: [Official Documentation](https://seaborn.pydata.org/)
-* **Scikit-Learn**: [Official Documentation](https://scikit-learn.org/stable/documentation.html)
+* **NumPy**: [Official Documentation](https://numpy.org/doc/) 🔢
+* **Pandas**: [Official Documentation](https://pandas.pydata.org/docs/) 🐼
+* **TensorFlow**: [Official Documentation](https://www.tensorflow.org/api_docs) 🧠
+* **Keras**: [Official Documentation](https://keras.io/) 🧠
+* **Matplotlib**: [Official Documentation](https://matplotlib.org/stable/contents.html) 📈
+* **Seaborn**: [Official Documentation](https://seaborn.pydata.org/) 📊
+* **Scikit-Learn**: [Official Documentation](https://scikit-learn.org/stable/documentation.html) 🤖
 
-### Backend & DevOps
-* **Flask**: [Official Documentation](https://flask.palletsprojects.com/en/latest/)
-* **MongoDB**: [Official Documentation](https://www.mongodb.com/docs/)
-* **MySQL**: [Official Documentation](https://dev.mysql.com/doc/)
-* **Docker**: [Official Documentation](https://docs.docker.com/)
-* **Jenkins**: [Official Documentation](https://www.jenkins.io/doc/)
-* **AWS**: [Official Documentation](https://aws.amazon.com/documentation/)
-* **Firebase**: [Official Documentation](https://firebase.google.com/docs)
-* **Ngrok**: [Official Documentation](https://ngrok.com/docs)
-* **Twilio**: [Official Documentation](https://www.twilio.com/docs)
-* **Plivo**: [Official Documentation](https://www.plivo.com/docs/)
+### Frameworks & AI Tools
+* **Flask**: [Official Documentation](https://flask.palletsprojects.com/en/latest/) 🍾
+* **CrewAI**: [Official Documentation](https://docs.crewai.com/) 🧑‍🤝‍🧑
+* **LangChain**: [Official Documentation](https://python.langchain.com/docs/get_started/introduction) 🔗
+
+### Databases
+* **MongoDB**: [Official Documentation](https://www.mongodb.com/docs/) 🍃
+* **MySQL**: [Official Documentation](https://dev.mysql.com/doc/) 🐬
+* **Firebase**: [Official Documentation](https://firebase.google.com/docs) 🔥
+
+### Cloud Platforms
+* **AWS**: [Official Documentation](https://aws.amazon.com/documentation/) ☁️
+* **Azure**: [Official Documentation](https://azure.microsoft.com/en-us/documentation/) ☁️
+* **GCP**: [Official Documentation](https://cloud.google.com/docs) ☁️
+
+### Tools & Others
+* **Docker**: [Official Documentation](https://docs.docker.com/) 🐳
+* **Jenkins**: [Official Documentation](https://www.jenkins.io/doc/) ⚙️
+* **Ngrok**: [Official Documentation](https://ngrok.com/docs) ↔️
+* **Twilio**: [Official Documentation](https://www.twilio.com/docs) 📞
+* **Plivo**: [Official Documentation](https://www.plivo.com/docs/) 💬
 
 ---
 
@@ -54,18 +64,23 @@ I actively practice problem-solving on LeetCode to hone my algorithmic and data 
 
 🔗 [My LeetCode Profile](https://leetcode.com/u/Luffy_812004/)
 
-I focus on various LeetCode tracks including:
-* Data Structures
-* Algorithms (Dynamic Programming, Graph Theory, etc.)
-* System Design (for relevant problems)
-
----
-
-## 📊 GitHub Stats
-
-Here are some of my GitHub statistics showcasing my activity and contributions. You can use tools like [Anurag's GitHub Stats](https://github.com/anuraghazra/github-readme-stats) or [DenverCoder1's GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) to dynamically display these.
+Here's a snapshot of my LeetCode progress:
 
 ```markdown
+<!-- LeetCode Stats Card -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Luffy_812004?theme=dark&ext=activity)
+
+I focus on various LeetCode tracks including:
+
+Data Structures
+
+Algorithms (Dynamic Programming, Graph Theory, etc.)
+
+System Design (for relevant problems)
+
+📊 GitHub Stats
+Here are some of my GitHub statistics showcasing my activity and contributions. You can use tools like Anurag's GitHub Stats or DenverCoder1's GitHub Readme Streak Stats to dynamically display these.
+
 <!-- Replace these with actual GitHub stats images -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav812004&show_icons=true&theme=radical)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav812004&layout=compact&theme=radical)
@@ -91,4 +106,4 @@ LinkedIn: Kaustav Ghosh
 
 Email: kaustav812004@gmail.com
 
-⭐️ From [kaustav812004](
+⭐️ From [kaustav812004]
