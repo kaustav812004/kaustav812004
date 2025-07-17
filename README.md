@@ -1,1 +1,94 @@
-<h1 align="center">Hi 👋, I'm Kaustav Ghosh</h1> <h3 align="center">A passionate machine learning developer from India currently a student at GGSIPU, Delhi</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustav812004&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav812004" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/@thenameiskaustav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thenameiskaustav" height="30" width="40" /></a> <a href="https://linkedin.com/in/thenameiskaustav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thenameiskaustav" height="30" width="40" /></a> <a href="https://instagram.com/thenameiskaustav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameiskaustav" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav812004&show_icons=true&locale=en" alt="kaustav812004" /></p>
+# Hi there, I'm Kaustav Ghosh! 👋
+
+A passionate and driven B.Tech student in Information Technology with a strong focus on Machine Learning, AI, and backend development. I love building intelligent systems and solving complex problems.
+
+---
+
+## 🚀 About Me
+
+I'm currently pursuing my B.Tech in Information Technology at Guru Gobind Singh Indraprastha University. My experience includes developing agentic AI applications, conducting machine learning research, and building robust backend systems. I'm always eager to learn new technologies and contribute to impactful projects.
+
+- **ML Intern** at Azna AI, focusing on agentic AI applications and multi-modal communication workflows.
+- **Research Intern** at Birla Institute of Technology, Mesra, where I conducted performance analysis of ML classifiers for lung cancer prediction.
+- Developed a modular, agentic AI-powered customer support system for barber shops using CrewAI and LangChain.
+- Built a RESTful API backend using Flask for a social networking application, managing MongoDB database schemas.
+
+---
+
+## 🛠️ Skills & Technologies
+
+Here's a list of my technical skills, with links to documentation where available:
+
+### Languages
+* **C/C++**
+* **Java**
+* **Python**: [Official Documentation](https://docs.python.org/3/)
+* **JavaScript**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### ML Libraries
+* **NumPy**: [Official Documentation](https://numpy.org/doc/)
+* **Pandas**: [Official Documentation](https://pandas.pydata.org/docs/)
+* **TensorFlow**: [Official Documentation](https://www.tensorflow.org/api_docs)
+* **Keras**: [Official Documentation](https://keras.io/)
+* **Matplotlib**: [Official Documentation](https://matplotlib.org/stable/contents.html)
+* **Seaborn**: [Official Documentation](https://seaborn.pydata.org/)
+* **Scikit-Learn**: [Official Documentation](https://scikit-learn.org/stable/documentation.html)
+
+### Backend & DevOps
+* **Flask**: [Official Documentation](https://flask.palletsprojects.com/en/latest/)
+* **MongoDB**: [Official Documentation](https://www.mongodb.com/docs/)
+* **MySQL**: [Official Documentation](https://dev.mysql.com/doc/)
+* **Docker**: [Official Documentation](https://docs.docker.com/)
+* **Jenkins**: [Official Documentation](https://www.jenkins.io/doc/)
+* **AWS**: [Official Documentation](https://aws.amazon.com/documentation/)
+* **Firebase**: [Official Documentation](https://firebase.google.com/docs)
+* **Ngrok**: [Official Documentation](https://ngrok.com/docs)
+* **Twilio**: [Official Documentation](https://www.twilio.com/docs)
+* **Plivo**: [Official Documentation](https://www.plivo.com/docs/)
+
+---
+
+## 📈 LeetCode & Problem Solving
+
+I actively practice problem-solving on LeetCode to hone my algorithmic and data structure skills.
+
+🔗 [My LeetCode Profile](https://leetcode.com/u/Luffy_812004/)
+
+I focus on various LeetCode tracks including:
+* Data Structures
+* Algorithms (Dynamic Programming, Graph Theory, etc.)
+* System Design (for relevant problems)
+
+---
+
+## 📊 GitHub Stats
+
+Here are some of my GitHub statistics showcasing my activity and contributions. You can use tools like [Anurag's GitHub Stats](https://github.com/anuraghazra/github-readme-stats) or [DenverCoder1's GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) to dynamically display these.
+
+```markdown
+<!-- Replace these with actual GitHub stats images -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav812004&show_icons=true&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav812004&layout=compact&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav812004&theme=radical)
+
+💻 Featured Projects
+Here are some of the projects I've worked on:
+
+Barber-Customer-Service: A modular, agentic AI-powered customer support system for barber shops.
+
+GitHub Repository
+
+Object Recognition: An image classification model using ResNet50.
+
+GitHub Repository
+
+LoveCord: A RESTful API backend using Flask for a social networking application.
+
+GitHub Repository
+
+🌐 Connect with Me
+LinkedIn: Kaustav Ghosh
+
+Email: kaustav812004@gmail.com
+
+⭐️ From [kaustav812004](
