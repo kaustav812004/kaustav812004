@@ -1,109 +1,84 @@
-# Hi there, I'm Kaustav Ghosh! 👋
-
-A passionate and driven B.Tech student in Information Technology with a strong focus on Machine Learning, AI, and backend development. I love building intelligent systems and solving complex problems.
-
----
-
-## 🚀 About Me
-
-I'm currently pursuing my B.Tech in Information Technology at Guru Gobind Singh Indraprastha University. My experience includes developing agentic AI applications, conducting machine learning research, and building robust backend systems. I'm always eager to learn new technologies and contribute to impactful projects.
-
-- **ML Intern** at Azna AI, focusing on agentic AI applications and multi-modal communication workflows.
-- **Research Intern** at Birla Institute of Technology, Mesra, where I conducted performance analysis of ML classifiers for lung cancer prediction.
-- Developed a modular, agentic AI-powered customer support system for barber shops using CrewAI and LangChain.
-- Built a RESTful API backend using Flask for a social networking application, managing MongoDB database schemas.
+<h1 align="center">Hi there 👋, I'm Kaustav Ghosh</h1>
+<h3 align="center">B.Tech IT Student | Machine Learning Intern @ Azna AI | Researcher | Backend Developer | Open Source Enthusiast</h3>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-Here's a list of my technical skills, with links to documentation where available:
-
-### Languages
-* **C/C++** 💻
-* **Java** ☕
-* **Python**: [Official Documentation](https://docs.python.org/3/) 🐍
-* **JavaScript**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 🌐
-
-### ML Libraries
-* **NumPy**: [Official Documentation](https://numpy.org/doc/) 🔢
-* **Pandas**: [Official Documentation](https://pandas.pydata.org/docs/) 🐼
-* **TensorFlow**: [Official Documentation](https://www.tensorflow.org/api_docs) 🧠
-* **Keras**: [Official Documentation](https://keras.io/) 🧠
-* **Matplotlib**: [Official Documentation](https://matplotlib.org/stable/contents.html) 📈
-* **Seaborn**: [Official Documentation](https://seaborn.pydata.org/) 📊
-* **Scikit-Learn**: [Official Documentation](https://scikit-learn.org/stable/documentation.html) 🤖
-
-### Frameworks & AI Tools
-* **Flask**: [Official Documentation](https://flask.palletsprojects.com/en/latest/) 🍾
-* **CrewAI**: [Official Documentation](https://docs.crewai.com/) 🧑‍🤝‍🧑
-* **LangChain**: [Official Documentation](https://python.langchain.com/docs/get_started/introduction) 🔗
-
-### Databases
-* **MongoDB**: [Official Documentation](https://www.mongodb.com/docs/) 🍃
-* **MySQL**: [Official Documentation](https://dev.mysql.com/doc/) 🐬
-* **Firebase**: [Official Documentation](https://firebase.google.com/docs) 🔥
-
-### Cloud Platforms
-* **AWS**: [Official Documentation](https://aws.amazon.com/documentation/) ☁️
-* **Azure**: [Official Documentation](https://azure.microsoft.com/en-us/documentation/) ☁️
-* **GCP**: [Official Documentation](https://cloud.google.com/docs) ☁️
-
-### Tools & Others
-* **Docker**: [Official Documentation](https://docs.docker.com/) 🐳
-* **Jenkins**: [Official Documentation](https://www.jenkins.io/doc/) ⚙️
-* **Ngrok**: [Official Documentation](https://ngrok.com/docs) ↔️
-* **Twilio**: [Official Documentation](https://www.twilio.com/docs) 📞
-* **Plivo**: [Official Documentation](https://www.plivo.com/docs/) 💬
+🌟 **About Me**
+- 🎓 B.Tech in Information Technology, GGSIPU (Expected 2026)
+- 🤖 ML Intern at Azna AI (working on agentic AI with CrewAI, Twilio, LangChain, Docker, GCP)
+- 🧠 Published Researcher in Lung Cancer Prediction using ML
+- 💡 Passionate about building intelligent, modular, real-world AI systems
+- 🔍 Exploring Open Source, Backend Systems, LLMOps and Developer Tooling
 
 ---
 
-## 📈 LeetCode & Problem Solving
+📈 **LeetCode Stats**
 
-I actively practice problem-solving on LeetCode to hone my algorithmic and data structure skills.
+![Kaustav's LeetCode Stats](https://leetcard.jacoblin.cool/Luffy_812004?theme=dark&font=Baloo+Bhai&ext=contest)
 
-🔗 [My LeetCode Profile](https://leetcode.com/u/Luffy_812004/)
+> 🧠 Solved over **300+ problems** on LeetCode  
+> 💪 Active participant in **weekly contests**  
+> 🥇 Continuously improving problem-solving and DSA skills
 
-Here's a snapshot of my LeetCode progress:
+---
 
-```markdown
-<!-- LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Luffy_812004?theme=dark&ext=activity)
+🛠 **Tech Stack**
 
-I focus on various LeetCode tracks including:
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 
-Data Structures
+  <!-- ML Libraries -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
 
-Algorithms (Dynamic Programming, Graph Theory, etc.)
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,docker,jenkins,aws,firebase" />
 
-System Design (for relevant problems)
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,ngrok" />
+</p>
 
-📊 GitHub Stats
-Here are some of my GitHub statistics showcasing my activity and contributions. You can use tools like Anurag's GitHub Stats or DenverCoder1's GitHub Readme Streak Stats to dynamically display these.
+---
 
-<!-- Replace these with actual GitHub stats images -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustav812004&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav812004&layout=compact&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustav812004&theme=radical)
+📂 **Featured Projects**
 
-💻 Featured Projects
-Here are some of the projects I've worked on:
+### ✂️ [Barber-Customer-Service](https://github.com/kaustav812004/Barber-Customer-Service)
+> Agentic AI-powered customer support system for barber shops using CrewAI  
+> 🧠 Multi-role agents (Appointment, Consultant, Pricing)  
+> 🧩 LLM + Tool Calling (Twilio + Plivo)  
+> 🛠 Built with GPT-4o, LangChain, Docker, Azure
 
-Barber-Customer-Service: A modular, agentic AI-powered customer support system for barber shops.
+### 🧠 [Object Recognition](https://github.com/kaustav812004/Object-classification-using-ResNet50)
+> Deep learning project using ResNet50 CNN for image classification  
+> 🔬 Tools: TensorFlow, Keras, Matplotlib, NumPy  
+> 📊 Focused on real-world image data and model evaluation
 
-GitHub Repository
+### 💌 [LoveCord](https://github.com/kaustav812004/lovecord-backend)
+> RESTful backend for a social networking platform  
+> ⚙️ Built with Flask + MongoDB  
+> 🔍 Features: Authentication, Routing, Error Handling, Schema Management
 
-Object Recognition: An image classification model using ResNet50.
+---
 
-GitHub Repository
+📜 **Publication**
+> 📰 *"Lung Cancer Prediction: A Performance Analysis of Machine Learning Classifiers"*  
+> 🏛 Published in the *International Journal of Statistics and Applied Mathematics*  
+> 📊 Techniques: SVM, Random Forest, Logistic Regression | Evaluated on AUC-ROC, F1, Precision, Recall
 
-LoveCord: A RESTful API backend using Flask for a social networking application.
+---
 
-GitHub Repository
+📫 **Let's Connect**
 
-🌐 Connect with Me
-LinkedIn: Kaustav Ghosh
+<p align="center">
+  <a href="mailto:kaustav812004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kaustav812004"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Luffy_812004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/kaustav812004"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-Email: kaustav812004@gmail.com
+---
 
-⭐️ From [kaustav812004]
+🧭 *“The journey of a thousand lines of code begins with a single `git init`.”*
+
