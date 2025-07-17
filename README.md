@@ -4,6 +4,7 @@
 ---
 
 🌟 **About Me**
+- I do work
 - 🎓 B.Tech in Information Technology, GGSIPU (Expected 2026)
 - 🤖 ML Intern at Azna AI (working on agentic AI with CrewAI, Twilio, LangChain, Docker, GCP)
 - 🧠 Published Researcher in Lung Cancer Prediction using ML
