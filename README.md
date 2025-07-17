@@ -27,26 +27,38 @@
 <p align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 
   <!-- ML Libraries -->
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB.svg?style=flat&logo=python&logoColor=white" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://img.shields.io/badge/Seaborn-3792CB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,docker,jenkins,aws,firebase" />
-  <img src="https://img.shields.io/badge/Ngrok-1F1F1F.svg?style=flat&logo=ngrok&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46.svg?style=flat&logo=twilio&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Plivo-1A73E8.svg?style=flat&logo=google-voice&logoColor=white" height="30" />
+  <!-- Backend & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Plivo-0099E5?style=for-the-badge&logo=google-voice&logoColor=white" height="30"/>
 
   <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
 </p>
-
 ---
 
 📂 **Featured Projects**
