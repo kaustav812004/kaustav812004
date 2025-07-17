@@ -27,9 +27,8 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
-
+  
   <!-- ML Libraries -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" />
 
