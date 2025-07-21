@@ -100,4 +100,4 @@
 
 ---
 
-🧭 *“The journey of a thousand lines of code begins with a single `git init`.”*
+🧭 *“Developing my eagerness to do leetcode.”*
