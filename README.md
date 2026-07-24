@@ -95,44 +95,51 @@ Incoming Specialist Programmer @ Infosys | LeetCode Knight | Software Engineerin
 **Also worked with:** CrewAI • LangChain • Azure OpenAI • AWS • Twilio • Plivo • Ngrok • REST APIs
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🤖 [Barber Customer Service](https://github.com/kaustav812004/Barber-Customer-Service)
+### ☀️ [Solar Energy Forecasting for Smart Grids](https://github.com/kaustav812004/Solar-Energy-Forecasting-for-Smart-Grids)
 
-Agentic AI-powered customer service platform designed to automate customer interactions and appointment workflows.
+Deep learning-based **day-ahead solar PV power forecasting system** designed to model complex temporal patterns in solar generation.
 
-- 🧠 Multi-agent architecture using **CrewAI**
-- 🤖 Integrated **LLMs and tool calling**
-- 📅 Automated appointment-booking workflows
-- 📞 Integrated communication APIs including **Twilio & Plivo**
-- 🐳 Containerized using **Docker**
-- ⚙️ Built using **Python, Azure OpenAI and REST APIs**
+- 🔮 Forecasts the next **24 hours of PV power** using the previous **168 hours (7 days)** of historical data
+- 🧠 Developed and compared **LSTM and Transformer architectures**
+- 🌦️ Integrated meteorological and solar irradiance data from **PVGIS and NASA POWER**
+- ⚙️ Engineered temporal, cyclical, irradiance, temperature, and weather-based features
+- 📊 Evaluated forecasting performance using **RMSE, MAE and MAPE**
+- ⚡ Designed for applications in **smart grids, renewable-energy forecasting and grid planning**
 
----
-
-### 🌾 [Agricultural Crop Recommendation](https://github.com/kaustav812004/Agricultural-Crop-Recommendations)
-
-Machine-learning application for recommending suitable crops based on agricultural and environmental parameters.
-
-- 🌱 Machine-learning based crop recommendations
-- 🌲 Built using **Random Forest**
-- ⚙️ Backend powered by **Flask**
-- 🤖 Integrated **Azure OpenAI**
-- 📊 Data preprocessing and prediction pipeline
+**Tech:** `Python` • `TensorFlow/Keras` • `LSTM` • `Transformers` • `Pandas` • `NumPy` • `Scikit-learn`
 
 ---
 
-### 💌 [LoveCord Backend](https://github.com/kaustav812004/lovecord-backend)
+### 🤖 [Realtime Multimodal Conversational Agent](https://github.com/kaustav812004/Realtime-Multimodal-Conversational-Agent-)
 
-RESTful backend for a social networking application.
+An **agentic AI customer-support system** capable of handling real-time conversations, tool execution and API-driven workflows.
 
-- ⚙️ Developed using **Flask**
-- 🗄️ **MongoDB** database integration
-- 🔐 Authentication and user management
-- 🛣️ RESTful API architecture
-- 🧩 Modular routing and error handling
+- 🧠 Built autonomous conversational workflows using **CrewAI**
+- 🤖 Integrated **GPT and Claude LLMs** with tool calling for dynamic decision-making
+- 📞 Integrated **Twilio and Plivo** for real-time communication
+- 🔗 Used **Ngrok** for webhook development and testing
+- 🔥 Implemented **Firestore** for persistent conversational data
+- 🐳 Used **Docker** for containerized deployment and reproducible environments
 
+**Tech:** `Python` • `CrewAI` • `LLMs` • `Twilio` • `Plivo` • `Firestore` • `Docker` • `Ngrok`
+
+---
+
+### 📄 [AI Intelligent PDF Reader](https://github.com/kaustav812004/AI-Intelligent-PDF-Reader)
+
+An intelligent document-processing and retrieval system for extracting, understanding and querying information from PDF documents.
+
+- 📄 Extracts textual information from PDFs using **PyMuPDF**
+- 👁️ Supports scanned documents using **Tesseract OCR**
+- 🧠 Generates semantic embeddings using **Sentence Transformers**
+- 🔎 Implements efficient similarity search using **FAISS**
+- 💬 Enables intelligent document querying and summarization
+- ⚡ Built an application layer using **Streamlit and FastAPI**
+- 🗄️ Integrated persistent data handling using **MySQL / DuckDB**
+
+**Tech:** `Python` • `FAISS` • `Sentence Transformers` • `FastAPI` • `Streamlit` • `PyMuPDF` • `Tesseract OCR` • `MySQL`
 ---
 
 ## 🔬 Research & Publication
